@@ -12,37 +12,23 @@ p{
     padding: 30px;
     line-height: 30px;
 }
-#oyennn{
-    background-image:url(path/to/jpg.jpg);
-}
-#body {
+body {
     font-family: 'Arial', sans-serif;
     background-color:rgb(231, 125, 155);
-    color:rgb(156, 218, 94);
     margin:auto;
     padding: 0;
 }
-#nav {
-    background-color:rgb(77, 151, 95);
+nav {
+    background-color:#4d975f;
     padding: 15px;
     text-align: center;
 }
-#nav a {
-    color:rgb(223, 208, 132);
+
+nav a {
+    color:#dfd084;
     text-decoration: none;
     margin:15px;
     font-weight: bold;
-}
-#nav a:hover {
-    background-color: rgb(192, 58, 87);
-    text-decoration:underline;
-}
-#header {
-    background-color:rgb(179, 122, 26);
-    color:aqua;
-    padding: 2px;
-    text-align: center;
-    border: radius 8px;
 }
 #header img {
     background-color: coral;
@@ -56,20 +42,21 @@ p{
     text-align: center;
 }
 #table {
-    background-color: rgb(13, 174, 174);
+    background-color: rgb(18, 208, 208);
     width:10;
     margin:auto;
     border-collapse: collapse;
 }
-#table, th, td {
-    background-color: rgb(231, 37, 156);
-    border: 1px solid #790e20;
+table, th, td {
+    background-color: #4d975f;
 }
+
 #th, td {
-    background-color: darkorchid;
+    background-color: azure;
     padding: 20px;
     text-align:left;
 }
+
 #footer {
     background-color:#93101b;
     color:rgb(207, 8, 194);
